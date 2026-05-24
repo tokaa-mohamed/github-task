@@ -1,0 +1,5 @@
+Branch: feature-dashboard
+- Purpose: Manager overview of the helpdesk system.
+- Files included: dashboard.html, script.js (loadTickets with stats).
+- Status: Displays total ticket count and analytics.
+- Status: Displays total ticket count and analytics.
