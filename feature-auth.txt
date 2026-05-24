@@ -1,0 +1,4 @@
+Branch: feature-auth
+- Purpose: Login and Sign Up functionality.
+- Files included: index.html, script.js (handleAuth function).
+- Status: Implemented using Fetch API with URLSearchParams.
