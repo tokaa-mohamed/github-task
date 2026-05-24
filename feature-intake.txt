@@ -1,0 +1,4 @@
+Branch: feature-intake
+- Purpose: Ticket submission form.
+- Files included: intake.html, script.js (submitTicket function).
+- Status: Sends POST request to /tickets with department and title.
