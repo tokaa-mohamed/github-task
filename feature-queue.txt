@@ -1,0 +1,4 @@
+Branch: feature-queue
+- Purpose: Displaying and managing tickets.
+- Files included: queue.html, script.js (loadTickets, assignToMe, updateStatus).
+- Status: Uses Event Delegation for dynamic button binding.
